@@ -1,0 +1,5 @@
+target=st.TestObject
+classpath=./target/scala-2.13/st-assembly-0.1.0.jar
+sourcepath=./src
+
+search.multiple_errors=true
