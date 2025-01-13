@@ -12,6 +12,6 @@ object TestObject {
   }
 
   def main(args: Array[String]): Unit = {
-    test1(1, 0, 3)
+    test1(1, 2, 0)
   }
 }
